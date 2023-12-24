@@ -7,7 +7,7 @@
 
 I'm an avid Blockchain/Smart Contract Engineer,  and Web3 Developer Advocate.🔮
 
-I'm here to continue learning and do great things in the world🌎
+I'm here to continue learning and do great things in the world!🌎
 
 Python lover, music enthusiast, and life enthusiast.😁
 
