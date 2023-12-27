@@ -14,7 +14,7 @@ Python lover, music enthusiast, and life enthusiast.😁
 ## 🔧 Skills
 - **Languages** Solidity, Python, Javascript
 - **Frameworks** Ethereum
-- **Tools:** Foundry, Remix, Ganache
+- **Tools** Foundry, Remix, Ganache
 
 
 
