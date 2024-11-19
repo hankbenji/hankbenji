@@ -1,15 +1,15 @@
-<h2> Hi there👋, I'm Hank </h2>
+<h2> Hi there👋, my name is Malik but you can call me Hank if you want </h2>
 
 
 
 
  [![Malik Hankins LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/malik-hankins-775554233)
 
-I'm an avid Blockchain/Smart Contract Engineer,  and Web3 Developer Advocate.🔮
+I like working with emerging technologies.🔮
 
 I'm here to continue learning and do great things in the world!🌎
 
-Python lover, music enthusiast, and life enthusiast.😁
+Python lover, sports enthusiast, and life enthusiast.😁
 
 ## 🔧 Skills
 - **Languages** Solidity, Python, Javascript
